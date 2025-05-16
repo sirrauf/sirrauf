@@ -40,7 +40,6 @@ Current Roles :
 - [Former Member of GDSC ITB Bandung](https://www.instagram.com/gdscitb)
 
 Portfolios and Company Profile:
-- [Comingsoon My Website](https://www.google.com)
 - [Github Pin](https://www.github.com/sirrauf)
 - [Company Profile](https://tmd-group-187de4154457.herokuapp.com/)
 
