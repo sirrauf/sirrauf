@@ -39,9 +39,8 @@ Current Roles :
 - [Former Event Management Volunteer at Starter In Community(Startup Founder Indonesian Community)](https://www.instagram.com/starter.in)
 - [Former Member of GDSC ITB Bandung](https://www.instagram.com/gdscitb)
 
-Portfolios and Company Profile:
+Portofolio:
 - [Github Pin](https://www.github.com/sirrauf)
-- [Company Profile](https://tmd-group-187de4154457.herokuapp.com/)
 
 
 Karya Karsa,Wattpad, and Ko-fi Author :
@@ -58,4 +57,4 @@ Reach Me :
 
 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAnadaRauf&label=Visitors&labelColor=%2337d67a&countColor=%232ccce4)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fsirrauf)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsirrauf&label=Visitors&labelColor=%2337d67a&countColor=%232ccce4)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fsirrauf)
