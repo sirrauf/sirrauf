@@ -35,6 +35,7 @@ Confidence Deep Understanding on :
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Current Roles :
+- [Bussiness Owner at PT Ananda Technology Solution](https://g.co/kgs/wGMCBbM)
 - [Former Founder & Owner at Media Pengembangan Teknologi Indonesia Jaya Inc (PT Media Pengembangan Technology Indonesia Jaya)](https://www.linkedin.com/company/pt-media-pengembangan-teknologi-indonesia-jaya/)
 - [Former Event Management Volunteer at Starter In Community(Startup Founder Indonesian Community)](https://www.instagram.com/starter.in)
 - [Former Member of GDSC ITB Bandung](https://www.instagram.com/gdscitb)
